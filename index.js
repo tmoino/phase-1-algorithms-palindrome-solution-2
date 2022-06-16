@@ -11,10 +11,14 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  
 */
 
 /*
   Add written explanation of your solution here
+  comparing the letter with their correspondant if their equal 
+  if their not equal at any given point to return false
+  if all through is equal then the word is palindrome  and we return true
 */
 
 // You can run `node index.js` to view these console logs
